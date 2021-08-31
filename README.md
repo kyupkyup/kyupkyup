@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I’m currently working on ... Frontend developer
-- 🌱 I’m currently learning ... javascript and react
+- 🌱 I’m currently learning ... javascript and Typescript
 - 👯 I’m looking to collaborate on ... webpage development
 - 🤔 how I study ... https://velog.io/@lky9303 
 - 💬 if you are wondering my projects ... https://kyupkyup.github.io/portfolio/ 
