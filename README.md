@@ -11,5 +11,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... javascript and Typescript
 - 👯 I’m looking to collaborate on ... webpage development
 - 🤔 how I study ... https://velog.io/@lky9303 
-- 💬 if you are wondering my projects ... https://kyupkyup.github.io/portfolio/ 
 - 📫 How to reach me: ... rudduqdl1@gmail.com
